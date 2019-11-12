@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+}
+div {
+    padding: 80px;
+    background: #ccc;
+    border: 3px solid #000;
+    border-radius: 5px;
+}
